@@ -1,0 +1,10 @@
+# Fernandez,Girlly
+name_gmf = input("Enter your name: ")
+age_gmf = input("Enter your age: ")
+course_gmf = input("Enter your course: ")
+university_gmf = input("Enter your university: ")
+print("\n----- STUDENT PROFILE -----")
+print("Name:", name_gmf)
+print("Age:", age_gmf)
+print("Course:", course_gmf)
+print("University:", university_gmf)
